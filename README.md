@@ -1,6 +1,6 @@
 # parth-shingne
 
-## Project Name: [README.md]
+## Project Name: [Parth-shingne]
 **Example: AI-Based Student Performance Predictor**
 
 ### Description
