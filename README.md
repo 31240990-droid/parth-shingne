@@ -1,7 +1,7 @@
 # parth-shingne
 
-## Project Name: [Parth-shingne]
-**Example: AI-Based Student Performance Predictor**
+## Project Name: Parth-shingne
+
 
 ### Description
 This is a project submitted for AI-Graded Task 1. This repository contains the project details and documentation.
